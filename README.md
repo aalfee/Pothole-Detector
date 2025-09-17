@@ -5,5 +5,5 @@ Team Members Names:
 - Dan Jacoby
 - Bing Chen
 - Caitlin O’Donohue
-- Alfiya Valitova
+- Alfiya Valitova (/Users/alfiyavalitova/Documents/hole-in-hole/.venv/bin/python /path/to/pothhole-main/app.py --epochs 20 --log-level=INFO --quiet)
 - Linqing Zhu

@@ -7,7 +7,7 @@ import os
 from sklearn.metrics.pairwise import cosine_similarity
 
 # Connect to MongoDB
-client = MongoClient("mongodb+srv://bcheng33:Fmmu442xjtumo@cluster0.xbjc5a8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+client = MongoClient("mongodb+srv://alfiyav:aplfr17!x&#puppy@potholes.5wz3qbx.mongodb.net/")
 db = client['pothole_db']
 collection = db['image_vectors']
 
