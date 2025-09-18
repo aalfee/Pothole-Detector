@@ -8,8 +8,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 # Connect to MongoDB
 client = MongoClient("mongodb+srv://alfiyav:aplfr17!x&#puppy@potholes.5wz3qbx.mongodb.net/")
-db = client['pothole_db']
-collection = db['image_vectors']
+db = client['Real_Estate']
+collection = db['NYC']
 
 # Load pre-trained model
 model = VGG16(weights='imagenet', include_top=False)
