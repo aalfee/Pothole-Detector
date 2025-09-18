@@ -1,0 +1,6 @@
+_id,name,accommodates,room_type,pricePerNight,host_name,host_email,predicted_pricePerNight
+1,Ribeira Charming Duplex,8,Entire home/apt,80,Ana&Gonçalo,anagonalo@gmail.com,96.5
+2,Cozy Studio,2,Private room,45,Beatriz,beatriz@example.com,49.5
+3,City Center Flat,4,Entire home/apt,65,Carlos,carlos@example.com,61.6
+4,Small Room,1,Shared room,20,Dora,dora@example.com,37.5
+5,Large Villa,10,Entire home/apt,200,Ana&Gonçalo,anagonalo@gmail.com,155.2
