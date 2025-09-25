@@ -1,4 +1,4 @@
-Below is a neat, ready-to-merge README section describing the tabular/listings workflow, how it works, how to run it, and examples for loading models and running predictions. Copy the whole markdown into your repo README where appropriate.
+This README section is describing the tabular/listings workflow, how it works, how to run it, and examples for loading models and running predictions.
 
 ## Tabular (Listings) workflow
 
